@@ -11,7 +11,7 @@
 # sample_size = 200
 
 
-## Light distance (latency) fingerprinting -- JA4L-C (client), JA4L-S (server)
+## Light distance (latency) fingerprinting -- JA4L
 [time]
 # enabled = true
 

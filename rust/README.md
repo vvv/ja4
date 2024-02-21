@@ -10,7 +10,7 @@ Name | Meaning
 --- | ---
 JA4 | TLS client fingerprint (supersedes JA3)
 JA4S | TLS server fingerprint (supersedes JA3S)
-JA4L-C/S | Light distance/location fingerprint
+JA4L | Light distance/location fingerprint
 JA4H | HTTP client fingerprint
 JA4SSH | SSH traffic fingerprint
 JA4X | X.509 fingerprint

@@ -5,7 +5,7 @@
 // JA4+ (JA4S, JA4H, JA4L, JA4X, JA4SSH) are licenced under the FoxIO License 1.1.
 // For full license text, see the repo root.
 
-//! Light distance (latency) fingerprints -- JA4L-C (client), JA4L-S (server)
+//! Light distance (latency) fingerprints -- JA4L
 
 mod tcp;
 mod udp;
